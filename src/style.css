@@ -1,5 +1,9 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: blue;
+    background: hwb(240 0% 0% / 0.048);
+}
+.Cajita{
+    background-color: rgba(127, 255, 212, 0.212);
+    
 }
